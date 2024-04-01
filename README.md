@@ -13,6 +13,15 @@ I'm a Full-stack Web Developer with over 7-years of experience in web applicatio
 
 My native language is Portuguese, but I get along well with English too. I'm currently planning to do an English exchange to improve my speaking skills.
 
+**Some skills that I find interesting to mention.**
+
+- Building APIs using [Python](https://python.org) ([Django](https://djangoproject.com) and [FastAPI](https://fastapi.tiangolo.com/))
+- [Google Cloud Platform](https://cloud.google.com/products) ecosystem and products
+- Experience with CI/CD ([Gitlab CI](https://gitlab.com/) & [Cloud Build](https://cloud.google.com/build))
+- Creation of Web Interfaces with [Nuxt.js](https://nuxt.com/) ([Vue.js](https://vuejs.org/))
+- Experience with Interface Design (I took the notable [uiExpert](https://uiexpert.com.br/) course)
+- Project management with [Jira Software](https://www.atlassian.com/software/jira) (I'm very organized, I use other tools like [Notion](https://www.notion.so/), Calendar, etc.)
+
 I currently live in Luanda, Angola. But I'm dying to migrate and see the world hahah!
 
 <!--
