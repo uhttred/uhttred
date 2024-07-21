@@ -1,8 +1,8 @@
 ### Hi there, I'm Uhtred Miller (Ageu Mateus) 👋
 
-> Hi, I'm currently looking for a new job opportunity. If you need a Python Backend Developer, please contact me via email (am@uhtred.dev) or [LinkedIn](https://linkedin.com/in/uhtredmiller).
+> Hi, I'm currently looking for a new job opportunity. If you need a Python Backend Developer, please contact me via email (txiocoder@gmail.com) or [LinkedIn](https://linkedin.com/in/uhtredmiller).
 
-Web Developer and Digital Entrepreneur from Angola.
+Web Developer and Digital Entrepreneur.
 
 I'm a Full-stack Web Developer with over 7-years of experience in web application development. My strongest skills are in [Python](https://python.org), [Django](https://djangoproject.com) and [Nuxt.js](https://nuxt.com). I'm good at business analysis for structuring and developing digital products well-aligned to user experience. I've worked in start-up environments and having led teams using various Agile methodologies such Scrum and Kanban. Furthermore, I always have worked remotely, so, I understand the importance of good communication. Visit my [LinkedIn profile](https://linkedin.com/in/uhtredmiller) to know more about me.
 
@@ -22,7 +22,7 @@ My native language is Portuguese, but I get along well with English too. I'm cur
 - Experience with Interface Design (I took the notable [uiExpert](https://uiexpert.com.br/) course)
 - Project management with [Jira Software](https://www.atlassian.com/software/jira) (I'm very organized, I use other tools like [Notion](https://www.notion.so/), Calendar, etc.)
 
-I currently live in Luanda, Angola. But I'm dying to migrate and see the world hahah!
+I currently live in Loures, Lisbon, Portugal.
 
 <!--
 **uhttred/uhttred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
