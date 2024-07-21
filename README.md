@@ -1,6 +1,6 @@
 ### Hi there, I'm Uhtred Miller (Ageu Mateus) 👋
 
-> Hi, I'm currently looking for a new job opportunity. If you need a Python Backend Developer, please contact me via email (txiocoder@gmail.com) or [LinkedIn](https://linkedin.com/in/uhtredmiller).
+> Hi, I'm currently looking for a new job opportunity. If you need a Python Backend Developer, Vue/Nuxt Developer or both, please contact me via email (txiocoder@gmail.com) or [LinkedIn](https://linkedin.com/in/uhtredmiller).
 
 Web Developer and Digital Entrepreneur.
 
