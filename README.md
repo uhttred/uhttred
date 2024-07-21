@@ -9,7 +9,7 @@ I'm a Full-stack Web Developer with over 7-years of experience in web applicatio
 - 🔭 I’m currently working on a small personal project while looking for a job.
 - 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/) and the ecosystem around it ([Pydantic](https://docs.pydantic.dev/latest/), [SQLAlchemy](https://www.sqlalchemy.org/), [Pytest](https://docs.pytest.org/en) and more).
 - 🤔 I’m looking for help with job opportunities.
-- 📫 How to reach me: am@uhtred.dev or [LinkedIn](https://linkedin.com/in/uhtredmiller)
+- 📫 How to reach me: txiocoder@gmail.com or [LinkedIn](https://linkedin.com/in/uhtredmiller)
 
 My native language is Portuguese, but I get along well with English too. I'm currently planning to do an English exchange to improve my speaking skills.
 
